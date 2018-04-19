@@ -1,4 +1,4 @@
 #### Intuition:
-<img src="intuition.gif" width="1000" height="150" />
-
+<img src="intuition.gif" width="600" height="250" />
+<br/>
 ![GitHub Logo](/screen3.png)
