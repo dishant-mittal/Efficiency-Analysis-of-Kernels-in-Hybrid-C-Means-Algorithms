@@ -1,5 +1,5 @@
 #### Intuition:
-<img src="intuition.gif" width="600" height="250" />
+<img src="intuition.gif" width="550" height="270" />
 
  
 ![GitHub Logo](/screen3.png)
